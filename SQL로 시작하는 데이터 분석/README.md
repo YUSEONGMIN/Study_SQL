@@ -1,6 +1,6 @@
 # SQL로 시작하는 데이터 분석
 
-<img src="https://image.yes24.com/goods/111360062/XL" width="30%" title="Titlex"/>
+<img src="https://image.yes24.com/goods/111360062/XL" width="30%">
 
 이 책을 선택한 이유: 데이터 분석가의 역량 중 하나는 SQL 능력이고, 이 책으로 역량을 쌓기 위해서
 
